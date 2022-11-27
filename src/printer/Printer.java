@@ -16,6 +16,8 @@ public class Printer {
         Printer obj2 = new SubClass2();
         System.out.println("SubClass2:");       // повідомлення похідного класу 2 бірюзовим кольором
         obj2.print("Turquoise Message");
+/*        SubClass1 subClass1 = new SubClass1();
+        subClass1.print("dfjkdjf");*/
     }
 }
 
